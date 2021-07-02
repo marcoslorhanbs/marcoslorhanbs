@@ -12,4 +12,5 @@
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCraMH4wlj9hpkAz1DJAZfGw?)](https://www.youtube.com/channel/UCraMH4wlj9hpkAz1DJAZfGw?)
 
 # About Me:
-I'm a Software Developer, in love with **python** language.
+I'm a Software Developer, in love with **python** language. <br>
+Now Learning: Game Development with **Unity** and **C#**
