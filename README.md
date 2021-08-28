@@ -30,3 +30,4 @@
 # About Me:
 I'm a Software Developer, in love with **python** language. <br>
 Now Learning: Game Development with **Unity** and **C#**
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcoslorhanbs&theme=monokai)
