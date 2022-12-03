@@ -44,7 +44,7 @@
 ![CSharp](https://img.shields.io/badge/-CSharp-0D1117?style=for-the-badge&logo=csharp&labelColor=0D1117&logocolor=533483)&nbsp;
 
 ### Studying at this moment:
-![NodeJs](https://img.shields.io/badge/-NodeJs-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
+![React](https://img.shields.io/badge/-React_Native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-Heroku-0D1117?style=for-the-badge&logo=heroku&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0D1117?style=for-the-badge&logo=microsoft-azure&logoColor=white)&nbsp;
 
