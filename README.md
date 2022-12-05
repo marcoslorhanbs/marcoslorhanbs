@@ -50,6 +50,5 @@
 
 # About Me:
 I'm a Software Developer, in love with **python** language. <br>
-Now Learning: Game Development with **Unity** and **C#**
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcoslorhanbs&theme=monokai)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
