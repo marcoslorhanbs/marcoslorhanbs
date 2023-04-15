@@ -45,7 +45,7 @@
 
 ### Studying at this moment:
 ![React](https://img.shields.io/badge/-React_Native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-Heroku-0D1117?style=for-the-badge&logo=heroku&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Render](https://img.shields.io/badge/-Render-0D1117?style=for-the-badge&logo=render&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0D1117?style=for-the-badge&logo=microsoft-azure&logoColor=white)&nbsp;
 
 # About Me:
