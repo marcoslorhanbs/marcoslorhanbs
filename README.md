@@ -10,8 +10,8 @@
 
 
 <div>
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=marcoslorhanbs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoslorhanbs&layout=compact&langs_count=7&theme=dark"/>  
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=marcoslorhanbs&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+ <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoslorhanbs&layout=compact&langs_count=7&theme=react"/>  
 </div>
 
 <hr>
@@ -50,5 +50,5 @@
 
 # About Me:
 I'm a Software Developer, in love with **python** language. <br>
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcoslorhanbs&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcoslorhanbs&theme=react)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
